@@ -5,10 +5,10 @@ import streamlit as st
 
 
 # Assuming you have the secrets manager setup, otherwise replace with your own method for securing API keys
-openai.api_key = "sk-uxEp_5cimPS_m_WsJ1tUOF2Z2xbwZdOAJiThvKW4B5T3BlbkFJws8psWoBKLZpqFY2BossNAwrH9OpvwEp9J921G2A0A"
+openai.api_key = "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"
 
 #pinecone.init(
-#	api_key='pcsk_61Rocn_HaxKcLBTFJ4CUTBWKjGtHLjMfVvLvpz7aLsHoiQtxiYePoro6D1DYM56HvxxRFH',
+#	api_key='',
 #	environment='us-east-1'
 #)
 #index = pinecone.Index('movies')
